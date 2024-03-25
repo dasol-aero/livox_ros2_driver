@@ -4,6 +4,10 @@ Click to see the original [README.md](./README_ORIGINAL.md)
 
 ---
 
+- **[Prerequisite: Livox-SDK2](https://github.com/dasol-aero/Livox-SDK2)**
+
+- **[Prerequisite: Livox ROS Driver2](https://github.com/dasol-aero/livox_ros_driver2)**
+
 - **Build**
 
   ```bash
